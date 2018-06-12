@@ -1,4 +1,4 @@
-FROM mlarson...
+FROM mlars84/node-ts-server:v1.0.0
 
 ENV PORT 3001
 
