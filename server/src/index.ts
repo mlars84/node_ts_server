@@ -1,6 +1,6 @@
 import app from './app'
 import mongoose from 'mongoose'
-import Animal from '../models/Animal'
+import Animal from '../interfaces/Animal'
 
 let gus = new Animal({
   name: 'Gus',
